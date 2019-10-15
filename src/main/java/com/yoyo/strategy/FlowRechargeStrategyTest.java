@@ -7,6 +7,8 @@ public class FlowRechargeStrategyTest {
        FlowRecharge flowRecharge = FlowChannelType.getFlowRecharge(channelno);
        flowRecharge.recharge("158****3403",productid);
     }
+
+
 }
 
 
